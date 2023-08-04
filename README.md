@@ -1,2 +1,2 @@
 # DATA
-all my projects related to data science, engineer, and analyst.
+All my projects related to data science, engineer, and analyst.
